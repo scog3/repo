@@ -7,10 +7,10 @@ Architectures: iphoneos-arm64
 Components: main
 Description: Tweaks and apps by scog3 for jailbroken iPhones and iPads.
 MD5Sum:
- 085fd3f1177a6f370da61e447077aa0e 1125 Packages
- 27e694dafc4270f492dd4a9a98aad6bd 646 Packages.gz
- 558196d60a4239641f3859a7c927d476 726 Packages.bz2
+ d0348260d5e3d7d1475bfea9367c56f0 1125 Packages
+ e62f7cc8bbe8d45b9cf57e60ff998c7f 645 Packages.gz
+ 2cc3a2de2959a2e3ff9b92253b6b221a 724 Packages.bz2
 SHA256:
- 878729fa260cd3d14857838ebf8b0dba3438142d4887f0bf2ec3cb1c383edb1b 1125 Packages
- 2e360243d1c1af7901d7d3e8c49757eb2c5613479dd98a59906c3ee3ea097ba4 646 Packages.gz
- 99f51c46ec5f9673fc9ca7e01599aaab2515bb826551ad4329662932579d6ce2 726 Packages.bz2
+ 20fd266044b80504d4c9430493c762da42123f548724fdf5048e0bb2d00ace5e 1125 Packages
+ 9c259d8f60be13390b03a6afa43024af2fccbe7ee44c43bb39557ad7821f9950 645 Packages.gz
+ fb47b5685c6c0e5403d2ba4f683bd1670bdb22d6bbf38eb3bdda3f25e9a6933e 724 Packages.bz2
