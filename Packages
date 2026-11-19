@@ -1,17 +1,17 @@
 Package: com.wifitether
-Version: 1.6-95
+Version: 1.6-96
 Architecture: iphoneos-arm64
 Maintainer: scog3
 Depends: firmware (>= 15.0)
 Recommends: com.rostane.share, python3
-Filename: debs/com.wifitether_1.6-95_iphoneos-arm64.deb
-Size: 182048
-MD5sum: fe7485737bed6456354578e0e1886398
-SHA1: 15b466251424cbb359a2b61f4c440cb98fa5426a
-SHA256: 8b6ec33eb74899526579e6b3daf423cd3b85e1014629e64e4a52a4058dac3fb9
+Filename: debs/com.wifitether_1.6-96_iphoneos-arm64.deb
+Size: 182142
+MD5sum: 6f668ecb58db15df582d0d4045f85a6c
+SHA1: 497825dc2c1154de0967c47bcad76c1fcbce3de9
+SHA256: 35dfc027eb0c12ffed23b596c16a5a51124af07ba580141248ae2d20afccaa5e
 Section: Networking
 Homepage: https://github.com/scog3/iOS-WiFi-tether
-Description: Plug-and-play USB tethering of your iPhone or iPad's Wi-Fi or VPN to a computer, plus switches that keep Wi-Fi on 5 GHz or 2.4 GHz, even with routers that won't let you split the bands, like BT's Smart Hub 2, Sky's Max Hub, Google Nest Wifi and eero. No SIM or data plan needed (Wi-Fi-only iPads work too), nothing to set up on the computer, no speed cap; change VPN location while plugged in and the computer follows within a second or two. USB tethering needs the Share tweak (the app adds its repo in Sileo); the band switches work without it.
+Description: Seamless USB tethering and Wi-Fi band control for jailbroken iPhones and iPads. Share your device's Wi-Fi or VPN with a computer over USB, and keep Wi-Fi on 5 GHz or 2.4 GHz even on routers that won't allow band splitting. USB tethering needs the Share tweak (the app adds its repo); band control works on its own. Rootless, iOS 15+.
 Author: scog3
 Depiction: https://scog3.github.io/repo/packages/com.wifitether/depiction.html
 Icon: https://scog3.github.io/repo/packages/com.wifitether/icon.png
