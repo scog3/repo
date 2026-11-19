@@ -1,0 +1,16 @@
+Origin: scog3's Repo
+Label: scog3's Repo
+Suite: stable
+Version: 1.0
+Codename: stable
+Architectures: iphoneos-arm64
+Components: main
+Description: Tweaks and apps by scog3 for jailbroken iPhones and iPads.
+MD5Sum:
+ 523d7f52430eb7640d8cddd9b3fe2dbb 1295 Packages
+ 5454970119a561b430a79fbfe634bd65 740 Packages.gz
+ 74059c3aa2ed8b09b13db6a0d6bb8d1a 815 Packages.bz2
+SHA256:
+ 0a43274f1af79d125354bffae3dc4828d02da30d9c564c0348314dc9b9bf81e6 1295 Packages
+ 53ce3fcfcf51c0444757212273e7d9937c514a9af962600fc5bb20fdfe68ee58 740 Packages.gz
+ 10df46d1202c20708faea3cfa0eeea47dc18e1e18cafaf880373e2a7c28b9071 815 Packages.bz2

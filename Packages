@@ -1,0 +1,20 @@
+Package: com.wifitether
+Version: 1.6-94
+Architecture: iphoneos-arm64
+Maintainer: scog3
+Depends: firmware (>= 15.0)
+Recommends: com.rostane.share, python3
+Filename: debs/com.wifitether_1.6-94_iphoneos-arm64.deb
+Size: 181416
+MD5sum: fb278b1e530efbab6adb1433fec97c0b
+SHA1: 9c9c7b1eb91d41c18226dde6d04e7b8eda1d2888
+SHA256: 2ed412953c7ce722fe8d0712340a1b8e3f5b8cbfee7480021ddae297b393cecd
+Section: Networking
+Homepage: https://github.com/scog3/iOS-WiFi-tether
+Description: Plug-and-play USB tethering of your iPhone or iPad's Wi-Fi or VPN to a computer, plus switches that keep Wi-Fi on 5 GHz or 2.4 GHz, even with routers that won't let you split the bands, like BT's Smart Hub 2, Sky's Max Hub, Google Nest Wifi and eero. No SIM or data plan needed (Wi-Fi-only iPads work too), nothing to set up on the computer, no speed cap; change VPN location while plugged in and the computer follows within a second or two. USB tethering needs the Share tweak (the app adds its repo in Sileo); the band switches work without it.
+Author: scog3
+Depiction: https://scog3.github.io/repo/packages/com.wifitether/depiction.html
+Icon: https://scog3.github.io/repo/packages/com.wifitether/icon.png
+Name: WiFi Tether & Band Switcher
+SileoDepiction: https://scog3.github.io/repo/packages/com.wifitether/depiction.json
+
