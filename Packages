@@ -1,17 +1,17 @@
 Package: com.wifitether
-Version: 1.6-96
+Version: 1.6-97
 Architecture: iphoneos-arm64
 Maintainer: scog3
 Depends: firmware (>= 15.0)
 Recommends: com.rostane.share, python3
-Filename: debs/com.wifitether_1.6-96_iphoneos-arm64.deb
-Size: 182142
-MD5sum: 6f668ecb58db15df582d0d4045f85a6c
-SHA1: 497825dc2c1154de0967c47bcad76c1fcbce3de9
-SHA256: 35dfc027eb0c12ffed23b596c16a5a51124af07ba580141248ae2d20afccaa5e
+Filename: debs/com.wifitether_1.6-97_iphoneos-arm64.deb
+Size: 182572
+MD5sum: c9b4a694932a515848aeb116818059d5
+SHA1: 7098959040be9c31d8e2c2445bf769fcd4b3a362
+SHA256: 82147f7a2ff781de430307ef97cbbef60dfd3a57e3ad81a35d52daa5cf1aacae
 Section: Networking
 Homepage: https://github.com/scog3/iOS-WiFi-tether
-Description: Seamless USB tethering and Wi-Fi band control for jailbroken iPhones and iPads. Share your device's Wi-Fi or VPN with a computer over USB, and keep Wi-Fi on 5 GHz or 2.4 GHz even on routers that won't allow band splitting. USB tethering needs the Share tweak (the app adds its repo); band control works on its own. Rootless, iOS 15+.
+Description: Seamless USB tethering and Wi-Fi band control for jailbroken iPhones and iPads. Share your device's Wi-Fi or VPN with a computer over USB, and keep Wi-Fi on 5 GHz or 2.4 GHz even on routers that won't allow band splitting. The Wi-Fi icon shows which band you're on. USB tethering needs the Share tweak (the app adds its repo); band control works on its own. Rootless, iOS 15+.
 Author: scog3
 Depiction: https://scog3.github.io/repo/packages/com.wifitether/depiction.html
 Icon: https://scog3.github.io/repo/packages/com.wifitether/icon.png
