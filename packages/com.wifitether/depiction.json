@@ -13,6 +13,10 @@
      "itemSize": "{160, 284.5}",
      "screenshots": [
       {
+       "url": "https://scog3.github.io/repo/packages/com.wifitether/screenshots/welcome.png",
+       "accessibilityText": "The welcome screen: the band on the Wi-Fi icon and the status notification"
+      },
+      {
        "url": "https://scog3.github.io/repo/packages/com.wifitether/screenshots/tethering.png",
        "accessibilityText": "Sharing Wi-Fi and the VPN over USB, with Force 5 GHz on"
       },
